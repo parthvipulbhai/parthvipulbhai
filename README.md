@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @parthvipulbhai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-parthvipulbhai/parthvipulbhai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @parthparth
+- 👀 I’m interested in learning ai with finance or trading particularty.
+- 🌱 I’m currently learning how can i intigrate ai agents to take my trades automatically and search for setups and follow my risk managment.
+- 💞️ I’m looking to collaborate on how make ai agents for my setups or doing research arount the current market synarios.
